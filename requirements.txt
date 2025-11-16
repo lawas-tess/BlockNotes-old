@@ -1,0 +1,7 @@
+django-allauth
+PyJWT
+cryptography
+gunicorn
+psycopg2-binary
+python-dotenv
+django
